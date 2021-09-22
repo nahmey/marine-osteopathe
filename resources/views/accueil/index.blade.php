@@ -30,7 +30,7 @@
 		<!-- <link href="{{asset('css/creative-v'.config('app.version').'.css')}}" rel="stylesheet"> -->
 		<link href="{{asset('css/creative.css')}}" rel="stylesheet">
 
-		<!-- <link rel="shortcut icon" type="image/png" href="{{asset('images/logo.ico')}}" /> -->
+		<link rel="shortcut icon" type="image/png" href="{{asset('favicon.png')}}" />
 
 		<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 		<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
