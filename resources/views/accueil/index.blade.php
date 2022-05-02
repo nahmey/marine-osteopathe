@@ -224,7 +224,7 @@
 							<div class="col-md-8 col-xs-12 p-4" style="margin-top: auto;margin-bottom: auto;">
 								<!-- <h6>L’ostéopathie : qu’est-ce que c’est ?</h6> -->
 								
-								<p class="mb-2 text-white-50 text-justify">Les honoraires d’une séance d’ostéopathie au cabinet sont de 50 Euros.</p>
+								<p class="mb-2 text-white-50 text-justify">Les honoraires d’une séance d’ostéopathie au cabinet sont de 55 Euros.</p>
 
 								<p class="mb-2 text-white-50 text-justify">J’accepte le règlement par chèque ainsi qu'en espèces, les cartes bancaires ne sont pas acceptées.</p>
 
