@@ -28,8 +28,8 @@
 		<link href="{{asset('css/magnific-popup.css')}}" rel="stylesheet">
 
 		<!-- Theme CSS - Includes Bootstrap -->
-		<!-- <link href="{{asset('css/creative-v'.config('app.version').'.css')}}" rel="stylesheet"> -->
-		<link href="{{asset('css/creative.css')}}" rel="stylesheet">
+		<link href="{{asset('css/creative-v'.config('app.version').'.css')}}" rel="stylesheet">
+		<!-- <link href="{{asset('css/creative.css')}}" rel="stylesheet"> -->
 
 		<link rel="shortcut icon" type="image/png" href="{{asset('favicon.png')}}" />
 
