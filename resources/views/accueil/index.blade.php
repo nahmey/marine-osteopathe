@@ -20,8 +20,9 @@
 		<link href="{{asset('css/all.min.css')}}" rel="stylesheet" type="text/css">
 
 		<!-- Google Fonts -->
-		<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet">
-		<link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
+		<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+		<!-- <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet">
+		<link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'> -->
 
 		<!-- Plugin CSS -->
 		<link href="{{asset('css/magnific-popup.css')}}" rel="stylesheet">
@@ -224,9 +225,9 @@
 							<div class="col-md-8 col-xs-12 p-4" style="margin-top: auto;margin-bottom: auto;">
 								<!-- <h6>L’ostéopathie : qu’est-ce que c’est ?</h6> -->
 								
-								<p class="mb-2 text-white-50 text-justify">Les honoraires d’une séance d’ostéopathie au cabinet sont de 55 Euros.</p>
+								<p class="mb-2 text-white-50 text-justify">Les honoraires d’une séance d’ostéopathie au cabinet sont de 60 Euros.</p>
 
-								<p class="mb-2 text-white-50 text-justify">J’accepte le règlement par chèque ainsi qu'en espèces, les cartes bancaires ne sont pas acceptées.</p>
+								<p class="mb-2 text-white text-justify font-weight-bold">J’accepte le règlement par chèque ainsi qu'en espèces, les cartes bancaires ne sont pas acceptées.</p>
 
 								<p class="mb-2 text-white-50 text-justify">Bien que l'Ostéopathie soit reconnue par l'Etat comme profession, les séances ne sont pas prises en charge par la Sécurité Sociale mais peuvent l'être en totalité ou en partie par votre Mutuelle Complémentaire suivant votre contrat.</p>
 
