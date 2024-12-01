@@ -45,8 +45,8 @@
     	  "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
     	  "cookieName": "tarteaucitron", /* Cookie name */
     
-    	  "orientation": "middle", /* Banner position (top - bottom) */
-    	  "showAlertSmall": true, /* Show the small banner on bottom right */
+    	  "orientation": "bottom", /* Banner position (top - bottom) */
+    	  "showAlertSmall": false, /* Show the small banner on bottom right */
     	  "cookieslist": true, /* Show the cookie list */
 
     	  "adblocker": false, /* Show a Warning if an adblocker is detected */
@@ -285,6 +285,10 @@
 					</div>
 				</div>
 
+<!-- 				<a href="https://www.doctolib.fr/osteopathe/weyersheim/marine-robert-weyersheim" target="_blank" class="btn btn-success position-fixed" style="bottom: 10px; right: 10px;z-index: 99999;">
+					<i class="fas fa-calendar-check"></i> Prendre rendez-vous
+				</a>
+ -->
 				<div class="col-xs-6 col-md-12 text-center">
 					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.57891252545!2d7.799289415222751!3d48.713528918850336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4796c121636221a7%3A0xdb3e8e5a8432b2ea!2s1%20Rue%20Saint-Michel%2C%2067720%20Weyersheim!5e0!3m2!1sfr!2sfr!4v1585219789730!5m2!1sfr!2sfr" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" height="400" width="100%"></iframe>
 				</div>
@@ -294,7 +298,10 @@
 		<!-- Footer -->
 		<footer class="bg-dark py-5">
 			<div class="container">
-				<div class="small text-center text-muted">Copyright &copy; {{date('Y')}} - Marine Robert</div>
+				<div class="small text-center text-muted">
+					Copyright &copy; {{date('Y')}} - Marine Robert | <a href="javascript:" onclick="tarteaucitron.userInterface.openPanel();">Gérer les cookies</a>
+				</div>
+				
 			</div>
 		</footer>
 
