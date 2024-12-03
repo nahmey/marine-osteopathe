@@ -287,8 +287,12 @@
 
 <!-- 				<a href="https://www.doctolib.fr/osteopathe/weyersheim/marine-robert-weyersheim" target="_blank" class="btn btn-success position-fixed" style="bottom: 10px; right: 10px;z-index: 99999;">
 					<i class="fas fa-calendar-check"></i> Prendre rendez-vous
+				</a> -->
+
+				<a href="https://www.doctolib.fr/osteopathe/weyersheim/marine-robert-weyersheim/booking?utm_campaign=website-button&amp;utm_source=marine-robert-weyersheim-website-button&amp;utm_medium=referral&amp;utm_content=withoutpreview-blue-floating-bottom-right&amp;utm_term=marine-robert-weyersheim" style="display:flex;text-align:center;background-color:#107ACA;color:#ffffff;font-size:14px;overflow:hidden;font-family:Roboto, sans-serif;box-sizing:border-box;align-items:center;padding:0 24px;z-index:1000;height:48px;text-decoration:none;position:fixed;bottom:10px;right:10px;border-bottom-left-radius:none;border-bottom-right-radius:none;border-top-left-radius:4px;border-top-right-radius:4px;border-radius:24px" target="_blank">Prendre rendez-vous<img style="height:19px;vertical-align:middle;width:auto" src="https://pro.doctolib.fr/external_button/doctolib-white-transparent.png" alt="Doctolib"/>
+					<!-- <i class="fas fa-calendar-check"></i> Prendre rendez-vous -->
 				</a>
- -->
+
 				<div class="col-xs-6 col-md-12 text-center">
 					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.57891252545!2d7.799289415222751!3d48.713528918850336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4796c121636221a7%3A0xdb3e8e5a8432b2ea!2s1%20Rue%20Saint-Michel%2C%2067720%20Weyersheim!5e0!3m2!1sfr!2sfr!4v1585219789730!5m2!1sfr!2sfr" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" height="400" width="100%"></iframe>
 				</div>
@@ -297,7 +301,7 @@
 
 		<!-- Footer -->
 		<footer class="bg-dark py-5">
-			<div class="container">
+			<div class="container bloc-footer">
 				<div class="small text-center text-muted">
 					Copyright &copy; {{date('Y')}} - Marine Robert | <a href="javascript:" onclick="tarteaucitron.userInterface.openPanel();">Gérer les cookies</a>
 				</div>
